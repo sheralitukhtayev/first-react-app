@@ -11,6 +11,9 @@ function App() {
         <p>
           My First React App by SheraliTukhtayev
         </p>
+        <p>
+          Sherali's social network accounts
+        </p>
         <ul>
           <li>
             <a href="https://t.me/Sheralitukhtayev" target="_blank" rel="noreferrer">
