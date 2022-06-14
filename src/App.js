@@ -16,7 +16,7 @@ function App() {
         </p>
         <ul>
           <li>
-            <a href="https://t.me/Sheralitukhtayev" target="_blank" rel="noreferrer">
+            <a href="https://t.me/SheraliTukhtayev" target="_blank" rel="noreferrer">
               <img src={telegram} className="social-network" alt="telegram" />
             </a>
           </li>
