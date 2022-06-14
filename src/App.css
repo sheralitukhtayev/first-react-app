@@ -7,8 +7,18 @@
   pointer-events: none;
 }
 
-.social-network {
-  width: 70px;
+ul {
+  text-align: center;
+  padding-left: 0px;
+}
+
+ul li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0 20px;
+}
+ul li img {
+  width: 50px;
 }
 
 @media (prefers-reduced-motion: no-preference) {

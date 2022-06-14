@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import telegram from './telegram.png';
+import github from './github.png';
 import './App.css';
 
 function App() {
@@ -10,9 +11,18 @@ function App() {
         <p>
           My First React App by SheraliTukhtayev
         </p>
-        <a link="https://t.me/Sherali_1116_forever">
-          <img src={telegram} className="social-network" alt="telegram" />
-        </a>
+        <ul>
+          <li>
+            <a href="https://t.me/Sheralitukhtayev" target="_blank">
+              <img src={telegram} className="social-network" alt="telegram" />
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/sheralitukhtayev" target="_blank">
+              <img src={github} className="social-network" alt="github" />
+            </a>
+          </li>
+        </ul>
       </header>
     </div>
   );
