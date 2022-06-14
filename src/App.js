@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import telegram from './telegram.png';
 import './App.css';
 
 function App() {
@@ -9,6 +10,9 @@ function App() {
         <p>
           My First React App by SheraliTukhtayev
         </p>
+        <a link="https://t.me/Sherali_1116_forever">
+          <img src={telegram} className="social-network" alt="telegram" />
+        </a>
       </header>
     </div>
   );
