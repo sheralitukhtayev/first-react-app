@@ -13,12 +13,12 @@ function App() {
         </p>
         <ul>
           <li>
-            <a href="https://t.me/Sheralitukhtayev" target="_blank">
+            <a href="https://t.me/Sheralitukhtayev" target="_blank" rel="noreferrer">
               <img src={telegram} className="social-network" alt="telegram" />
             </a>
           </li>
           <li>
-            <a href="https://github.com/sheralitukhtayev" target="_blank">
+            <a href="https://github.com/sheralitukhtayev" target="_blank" rel="noreferrer">
               <img src={github} className="social-network" alt="github" />
             </a>
           </li>
